@@ -13,7 +13,7 @@ Major updates of Weights v1.1
 
 ### Example prompt (v0)
 ```
-A chat between a human and an assistantt.
+A chat between a human and an assistant.
 
 ### Human: Hello!
 ### Assistant: Hello!
@@ -24,7 +24,7 @@ See the full prompt template [here]().
 
 ### Example prompt (v1.1)
 ```
-A chat between a human and an assistantt.
+A chat between a user and an assistant.
 
 USER: Hello!
 ASSISTANT: Hello!</s>
